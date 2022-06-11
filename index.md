@@ -5,7 +5,7 @@ layout: default
 Work in progress:)
 Just a **playground** for _practising_.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
 
 [Blog](./picussecuritybootcamp.md).
 
