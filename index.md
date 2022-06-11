@@ -40,8 +40,9 @@ end
 ```
 
 ```python
+# Python code
 greeting1 = ("Hello world")
-greeting2 = ("Blog in progress")
+greeting2 = ("emreYbs Blog in progress")
 print(greeting1,greeting2)
 
 ```
