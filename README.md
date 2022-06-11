@@ -1,4 +1,4 @@
-# The Hacker theme
+# The Hacker theme based blog in progress
 
 ## **Work in progress:)** Just a playground for practising for my future blog. I will use this theme below.
 **I will write a blog post and share soon about current vulnerabilities**
