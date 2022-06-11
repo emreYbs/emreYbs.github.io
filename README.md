@@ -12,7 +12,7 @@ Work in progress:)
 Just a **playground** for _practising_.
 
 
-[PicusSecurityBootcamp](./picussecuritybootcamp.html).
+[PicusSecurityBootcamp](./picussecuritybootcamp.md)
 
 
 
