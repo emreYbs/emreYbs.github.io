@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+I will write a blog post and share soon about current vulnerabilities.
 
 [back](./)
