@@ -1,6 +1,7 @@
 # The Hacker theme
 
 ## **Work in progress:)** Just a playground for practising for my future blog. I will use this theme below.
+**I will write a blog post and share soon about current vulnerabilities**
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
